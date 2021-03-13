@@ -7,6 +7,7 @@ We have split into 4 main teams, each team consisting of a lead and their respec
 - Primary
 - Secondary
 - Tertiary
+
 Where primary and secondary members form the backbone of the team, and tertiary members are there to assist the team if needed. We chose this structure to dilute the workload, and is an attempt at increasing our efficiency throughout the competition. Below are the leads of each team, and members with a participation level of secondary or higher.
 
 - Dry Lab
