@@ -33,7 +33,7 @@ Where primary and secondary members form the backbone of the team, and tertiary 
 			- Abhay
 			- Reid
 - Legal and Finance
-	- Lead by Camila Ballenghien
+	- Lead by Imran Nooraddin
 		- Members  
 			- Kangkan
 			- Imran
